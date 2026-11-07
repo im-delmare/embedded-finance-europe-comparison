@@ -66,7 +66,7 @@ Solaris, Swan, Treezor, Modulr, Adyen, Stripe, Banxware, YouLend and Mambu.
 
 This dataset accompanies delmare's comparison of European embedded finance platforms.
 
-Research: [POST-URL]
+Research: https://delmare.pro/2026/11/07/which-embedded-finance-platforms-in-europe-offer-the-best-infrastructure-for-businesses-and-how-do-they-compare-on-apis-banking-payments-and-lending/
 
 ## Author
 
