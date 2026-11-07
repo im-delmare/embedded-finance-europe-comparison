@@ -1,0 +1,10 @@
+provider,platform_type,licence_as_stated,api_offer,banking,payments,lending,checked_on
+Solaris,Licensed bank platform,German full banking licence (Solaris SE),API-based banking platform,"Accounts, cards, KYC",SEPA instant payments on ACI Connetic,Listed in third-party profiles,2026-11-07
+Swan,E-money platform,"EMI licence, French ACPR",Single GraphQL Partner API,"Business accounts with IBANs, cards",SEPA credit transfers and direct debits,Not listed in sources reviewed,2026-11-07
+Treezor,Bank-owned platform,"EME licence plus BIN sponsorship, Société Générale group",Single modular API,"White-label accounts, KYC/KYB, AML, core banking","Card issuing and processing, SEPA and international payments, acquiring",Not listed on pages reviewed,2026-11-07
+Modulr,E-money platform,"EMI licence, Central Bank of Ireland (Modulr Europe)",Developer-friendly payments API,Not detailed in sources reviewed,Embedded payments including SEPA Instant,Not listed in sources reviewed,2026-11-07
+Adyen,Payments-led platform,"Banking licences in Europe, US and UK",Single integration for platforms,Adyen Accounts,"Acquiring, processing, embedded payments",Adyen Capital,2026-11-07
+Stripe,Payments-led platform,Varies by product,"Connect, Issuing, Treasury, Capital",Treasury: US and UK public preview in documentation,"Connect: onboarding, KYC, payouts","Stripe Capital, announced for Germany",2026-11-07
+Banxware,Lending layer,Not stated in sources reviewed,Platform integrations,Not listed,Not listed,"EUR 1,000 to EUR 5 million via banks and lenders",2026-11-07
+YouLend,Lending layer,Not stated in sources reviewed,Platform partnerships,Not listed,Not listed,"More than 370,000 financings in more than 10 countries",2026-11-07
+Mambu,Core banking software,"Software layer for banks, lenders and fintechs",Cloud-native composable platform,Deposits and core banking,Mambu Payments,"Lending engine for consumer, business, BNPL and mortgages",2026-11-07

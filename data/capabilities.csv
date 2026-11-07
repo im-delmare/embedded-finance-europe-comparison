@@ -1,0 +1,49 @@
+provider,capability,value,evidence_type,source_url,checked_on
+Solaris,licence,German full banking licence (Solaris SE),provider_stated,https://www.businesswire.com/news/home/20250928445598/en/Solaris-Selects-ACI-Connetic-to-Future-Proof-Payments-Infrastructure,2026-11-07
+Solaris,api,API-based banking platform,third_party,https://www.guideflow.com/blog/embedded-finance-software,2026-11-07
+Solaris,banking,"Accounts, cards, KYC",third_party,https://www.lilachbullock.com/best-embedded-finance-platforms/,2026-11-07
+Solaris,payments,SEPA instant payments moved to ACI Connetic (announced September 2025),provider_stated,https://www.businesswire.com/news/home/20250928445598/en/Solaris-Selects-ACI-Connetic-to-Future-Proof-Payments-Infrastructure,2026-11-07
+Solaris,lending,Listed in third-party profiles,third_party,https://www.lilachbullock.com/best-embedded-finance-platforms/,2026-11-07
+Solaris,ownership_funding,Majority shareholder SBI Group; repositioning as an AI-native bank announced March 2026,press_report,https://thepaypers.com/fintech/news/solaris-repositions-as-a-european-ai-native-bank-backed-by-sbi-group,2026-11-07
+Solaris,ownership_funding,About 80 job cuts reported alongside the March 2026 repositioning,press_report,https://www.pymnts.com/?p=3600363,2026-11-07
+Swan,licence,"EMI licence, French ACPR",third_party,https://www.rfp.wiki/vendors/swan,2026-11-07
+Swan,api,Single GraphQL Partner API,third_party,https://providers.apievangelist.com/providers/swan/,2026-11-07
+Swan,banking,"Business accounts with IBANs, cards",third_party,https://providers.apievangelist.com/providers/swan/,2026-11-07
+Swan,payments,SEPA credit transfers and direct debits,third_party,https://providers.apievangelist.com/providers/swan/,2026-11-07
+Swan,lending,Not listed in sources reviewed,not_listed,https://providers.apievangelist.com/providers/swan/,2026-11-07
+Swan,compliance_role,"Handles compliance, KYC and fraud prevention for partners",provider_stated,https://swan.io/blog-posts/swan-secures-eu42m-to-lead-embedded-banking-in-europe,2026-11-07
+Swan,coverage,"Local IBANs in France, Germany, Spain, the Netherlands and Italy",third_party,https://www.rfp.wiki/vendors/swan,2026-11-07
+Treezor,licence,EME licence plus BIN sponsorship,provider_stated,https://treezor.com,2026-11-07
+Treezor,ownership_funding,Part of Société Générale group since 2019,third_party,https://app.dealroom.co/companies/treezor,2026-11-07
+Treezor,api,Single modular API,provider_stated,https://treezor.com,2026-11-07
+Treezor,banking,"White-label accounts, KYC/KYB, AML, core banking",provider_stated,https://treezor.com,2026-11-07
+Treezor,payments,"Card issuing and processing, SEPA and international payments, acquiring",provider_stated,https://treezor.com,2026-11-07
+Treezor,lending,Not listed on pages reviewed,not_listed,https://treezor.com,2026-11-07
+Treezor,scheme_access,Principal member of card networks such as Mastercard,press_report,https://www.it-finanzmagazin.de/treezor-will-banken-zahlungsverwaltung-in-verschiedenen-europaeischen-laendern-erleichtern-223785/,2026-11-07
+Treezor,coverage,Authorised to provide payment services in 25 countries,provider_stated,https://www.treezor.com/use-cases/white-label-neobank-solution/,2026-11-07
+Treezor,distribution_route,Client companies can passport as payment service agent or electronic money distributor,provider_stated,https://www.treezor.com/use-cases/white-label-neobank-solution/,2026-11-07
+Treezor,iban_ownership,BIC and IBANs issued to end users are Treezor's own,provider_stated,https://www.treezor.com/use-cases/white-label-neobank-solution/,2026-11-07
+Modulr,licence,"EMI licence, Central Bank of Ireland (Modulr Europe)",press_report,https://ffnews.com/newsarticle/the-central-bank-of-ireland-grants-modulr-an-emi-licence/,2026-11-07
+Modulr,api,Developer-friendly payments API,provider_stated,https://ffnews.com/newsarticle/the-central-bank-of-ireland-grants-modulr-an-emi-licence/,2026-11-07
+Modulr,banking,Not detailed in sources reviewed,not_listed,https://ffnews.com/newsarticle/the-central-bank-of-ireland-grants-modulr-an-emi-licence/,2026-11-07
+Modulr,payments,"Embedded payments including SEPA Instant, direct scheme access where possible",provider_stated,https://ffnews.com/newsarticle/the-central-bank-of-ireland-grants-modulr-an-emi-licence/,2026-11-07
+Modulr,lending,Not listed in sources reviewed,not_listed,https://ffnews.com/newsarticle/the-central-bank-of-ireland-grants-modulr-an-emi-licence/,2026-11-07
+Adyen,licence,"Banking licences in Europe, US and UK",press_report,https://www.pymnts.com/earnings/2025/adyen-says-embedded-finance-helps-businesses-deal-with-macro-challenges/,2026-11-07
+Adyen,api,Single integration for platforms,provider_stated,https://www.adyen.com/press-and-media/adyen-powers-the-future-of-financial-services-by-launching-embedded-financial-products,2026-11-07
+Adyen,banking,Adyen Accounts,provider_stated,https://www.adyen.com/press-and-media/adyen-powers-the-future-of-financial-services-by-launching-embedded-financial-products,2026-11-07
+Adyen,payments,"Acquiring, processing, embedded payments",third_party,https://www.apideck.com/blog/embedded-finance-companies-landscape,2026-11-07
+Adyen,lending,"Adyen Capital, financing based on payments history",provider_stated,https://www.adyen.com/press-and-media/adyen-powers-the-future-of-financial-services-by-launching-embedded-financial-products,2026-11-07
+Stripe,licence,Varies by product; Treasury documentation points to account agreements for the bank and legal account holder,provider_stated,https://docs.stripe.com/treasury,2026-11-07
+Stripe,api,"Connect, Issuing, Treasury, Capital",press_report,https://www.crowdfundinsider.com/?p=173183,2026-11-07
+Stripe,banking,"Treasury: US and UK public preview, Australia private preview in documentation",provider_stated,https://docs.stripe.com/treasury,2026-11-07
+Stripe,banking,"Support page describes gradual rollout to eligible users in the US, UK, EU and Australia",provider_stated,https://support.stripe.com/questions/treasury-eligibility-and-onboarding?locale=en-GB,2026-11-07
+Stripe,payments,"Connect handles onboarding, KYC and payouts",third_party,https://eco.com/support/en/articles/16394216,2026-11-07
+Stripe,lending,Stripe Capital announced for Germany: next-day financing based on transaction history,press_report,https://thepaypers.com/payments/news/stripe-introduces-new-products-to-boost-business-growth-in-germany,2026-11-07
+Banxware,lending,"Financing from EUR 1,000 to EUR 5 million through banks and lenders; integrated with more than 40 platforms",press_report,https://fintech.global/2025/06/05/embedded-lending-platform-banxware-raises-e10m-from-unicredit/,2026-11-07
+Banxware,ownership_funding,UniCredit forward flow: banking partner takes 100% of the loan portfolio,press_report,https://fintech.global/2025/06/05/embedded-lending-platform-banxware-raises-e10m-from-unicredit/,2026-11-07
+YouLend,lending,"Embedded financing for platforms; more than 370,000 financings in more than 10 countries",press_report,https://itbrief.co.uk/story/youlend-opens-berlin-hub-to-drive-eu-embedded-finance,2026-11-07
+YouLend,coverage,Berlin hub opened March 2026,press_report,https://itbrief.co.uk/story/youlend-opens-berlin-hub-to-drive-eu-embedded-finance,2026-11-07
+YouLend,partners,"Shopify, Worldline, SumUp, Tide, Dojo among platform partners",press_report,https://itbrief.co.uk/story/youlend-opens-berlin-hub-to-drive-eu-embedded-finance,2026-11-07
+Mambu,core_banking,"Cloud-native core banking software; lending products across consumer, business, BNPL, mortgages and embedded finance",provider_stated,https://mambu.com/en/mambu-named-leader-in-gartner-magic-quadrant,2026-11-07
+Mambu,analyst_position,Named leader with highest ability to execute in the 2026 Gartner Magic Quadrant for Retail Core Banking Systems in Europe (Mambu's own claim),provider_stated,https://mambu.com/en/mambu-named-leader-in-gartner-magic-quadrant,2026-11-07
+Mambu,customer_example,Defacto live on Mambu Payments in August 2026 for embedded SME financing in France,press_report,https://ffnews.com/news/news-mambu-launches-intelligent-core-2b3a9c70,2026-11-07
