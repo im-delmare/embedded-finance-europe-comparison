@@ -73,3 +73,16 @@ Research: https://delmare.pro/2026/11/07/which-embedded-finance-platforms-in-eur
 delmare
 
 AI SEO / GEO for fintech.
+
+## License
+
+The original compilation, selection, structure and annotations in this repository are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+You are free to share and adapt this material, including for commercial purposes, provided you give appropriate credit, link to the license and indicate whether changes were made.
+
+**Suggested attribution:** delmare, *Embedded Finance Platforms in Europe: Comparison Dataset*, https://github.com/im-delmare/embedded-finance-europe-comparison
+
+**License:** https://creativecommons.org/licenses/by/4.0/
+
+This license applies only to original material that I have the rights to license. Third-party trademarks, source materials and linked content remain subject to their respective rights and terms.
+
